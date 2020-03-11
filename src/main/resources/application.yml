@@ -1,0 +1,6 @@
+server.port: 8090
+
+accessTokenUri: http://localhost:8080/stub/oauth/token
+clientID: test_ClientID
+clientSecret: test_ClientSecret
+
